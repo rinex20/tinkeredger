@@ -21,7 +21,7 @@ echo $PATH
 # change dir to workplace
 cd "${GITHUB_WORKSPACE}" || exit
 
-git clone https://github.com/rinex20/debian-kernel.git
+git clone https://github.com/tinkeredger/debian-kernel.git
 cd debian-kernel
 
 #cd /home/runner/work/debian-kernel
